@@ -10,7 +10,7 @@
 [Why learning code is so damn hard](https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/)\
 [Deep work](https://doist.com/blog/deep-work/)\
 [Am I a real software engineer yet](https://www.freecodecamp.org/news/am-i-a-real-software-engineer-yet-a0f38a2248c0/)
-[Yes, You Should Learn Vanilla JavaScript Before Fancy JS Frameworks](https://snipcart.com/blog/learn-vanilla-javascript-before-using-js-frameworks)\
+[Yes, You Should Learn Vanilla JavaScript Before Fancy JS Frameworks](https://snipcart.com/blog/learn-vanilla-javascript-before-using-js-frameworks)
 
 ## Books
 [Eloquent Javascript](http://eloquentjavascript.net/code/)\
@@ -31,14 +31,14 @@
 [CSS Diner](https://flukeout.github.io/)\
 [Warrior.js](https://warriorjs.com/)\
 [Code Combat](https://codecombat.com/play/dungeon)\
-[Typing Club](https://www.typingclub.com/)\
+[Typing Club](https://www.typingclub.com/)
 
 ## Git
 [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)\
 [Git and Github in Plain English](https://blog.red-badger.com/2016/11/29/gitgithub-in-plain-english)\
 [Globalna konfiguracja Gita](https://piecioshka.pl/blog/2017/02/06/globalna-konfiguracja-gita.html)\
 [How to not f- up your local files with Git](https://medium.com/@francesco.agnoletto/how-to-not-f-up-your-local-files-with-git-part-1-e0756c88fd3c)\
-[Git Command Explorer](https://gitexplorer.com/)\
+[Git Command Explorer](https://gitexplorer.com/)
 
 ## Interview
 [How to fail a programming interview](https://dev.to/mortoray/how-to-fail-a-programming-interview-b5i)\
@@ -60,17 +60,17 @@
 [BlockScoped - Random coding questions by topic and difficulty](https://blockscoped.com/javascript/)\
 [JavaScript Questions](https://github.com/lydiahallie/javascript-questions/)\
 [50+ Data Structure and Algorithms Interview Questions for Programmers](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0/)\
+[SourceMaking](https://sourcemaking.com/)\
+[Refactoring Guru](https://refactoring.guru/)
 
 ## Javascript
 
 [JavaScript The Right Way](http://jstherightway.org/)\
 [The Modern JavaScript Tutorial](https://javascript.info/)\
->>>>>>>>>>>>>>>[SourceMaking](https://sourcemaking.com/)\
->>>>>>>>>>>>>>>[Refactoring Guru](https://refactoring.guru/)
 [The JavaScript Beginner's Handbook](https://www.freecodecamp.org/news/the-complete-javascript-handbook-f26b2c71719c/)\
 [JavaScript Visualized](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)\
 [Guide for the daily JavaScripter](https://dev.to/damxipo/guide-for-the-daily-javascripter-87o/)\
-[JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms/)\
+[JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms/)
 
 ## Online editors of somethings
 [Code Sandbox](https://codesandbox.io/)\
@@ -79,14 +79,14 @@
 
 ## Online learing platforms
 [Free Code Camp](https://www.freecodecamp.org/learn)\
-[The Odin Project](https://www.theodinproject.com/)\
+[The Odin Project](https://www.theodinproject.com/)
 
 ## Whiteboard challenges
 [Leet Code](https://leetcode.com/)\
-[Code Wars](https://www.codewars.com/dashboard)\
+[Code Wars](https://www.codewars.com/dashboard)
 
 ## Other aggregators of tasty hyperlinks
-[Learn Vanilla JavaScript](https://github.com/snipcart/learn-vanilla-js)\
+[Learn Vanilla JavaScript](https://github.com/snipcart/learn-vanilla-js)
 
 ## Youtube channels
 [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)\
