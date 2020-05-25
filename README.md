@@ -75,7 +75,7 @@
 ## Online editors of somethings
 [Code Sandbox](https://codesandbox.io/)\
 [regex101](https://regex101.com/)\
-[Carbon](https://carbon.now.sh/)\
+[Carbon](https://carbon.now.sh/)
 
 ## Online learing platforms
 [Free Code Camp](https://www.freecodecamp.org/learn)\
@@ -100,4 +100,4 @@
 
 ## Twitter people
 
-@piotr_slawinski
+[@piotr_slawinski](https://twitter.com/piotr_slawinski)
