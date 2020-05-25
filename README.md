@@ -1,15 +1,15 @@
 # Resources for beginners
 
 ## Blogs
-[Compiled](https://compiled.blog/)
-[We learn code](https://welearncode.com/)
-https://randallkanna.com/blog/
-https://medium.com/basecs
+[Compiled](https://compiled.blog/)\
+[We learn code](https://welearncode.com/)\
+[Randall Kanna](https://randallkanna.com/blog/)\
+[BaseCS](https://medium.com/basecs)\
 
 ## Blogposts
-https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/
-https://doist.com/blog/deep-work/
-https://www.freecodecamp.org/news/am-i-a-real-software-engineer-yet-a0f38a2248c0/
+https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/\
+https://doist.com/blog/deep-work/\
+https://www.freecodecamp.org/news/am-i-a-real-software-engineer-yet-a0f38a2248c0/\
 
 ## Books
 http://eloquentjavascript.net/code/
