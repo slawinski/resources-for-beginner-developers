@@ -1,7 +1,7 @@
 # Resources for beginners
 
 ## Blogs
-https://compiled.blog/
+(Compiled)[https://compiled.blog/]
 https://welearncode.com/
 https://randallkanna.com/blog/
 https://medium.com/basecs
