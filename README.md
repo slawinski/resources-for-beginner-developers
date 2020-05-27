@@ -52,11 +52,13 @@ Without further addo. Here's the ultimate list of links a beginner developer cou
 |[Git and Github in Plain English](https://blog.red-badger.com/2016/11/29/gitgithub-in-plain-english)||
 |[Globalna konfiguracja Gita](https://piecioshka.pl/blog/2017/02/06/globalna-konfiguracja-gita.html)||
 |[How to not f- up your local files with Git](https://medium.com/@francesco.agnoletto/how-to-not-f-up-your-local-files-with-git-part-1-e0756c88fd3c)||
-|[Git Command Explorer](https://gitexplorer.com/)
+|[Git Command Explorer](https://gitexplorer.com/)||
+|[Oh Shit, Git!?!](https://ohshitgit.com/)|"Git is hard: screwing up is easy, and figuring out how to fix your mistakes is fucking impossible (...) So here are some bad situations I've gotten myself into, and how I eventually got myself out of them in plain english."|
 
-## Interview
+## Career
 |link|description|
 |---|---|
+|[Career tips](https://github.com/ElaMoscicka/Career-tips)|Career tips for Software Engineers and Recruiters|
 |[How to fail a programming interview](https://dev.to/mortoray/how-to-fail-a-programming-interview-b5i)||
 |[The 30 Most Important Interview Questions to Ask This Summer](https://www.glassdoor.com/blog/the-30-most-important-interview-questions-to-ask-this-summer/)||
 |[Get that job at Facebook](https://www.facebook.com/notes/facebook-engineering/get-that-job-at-facebook/10150964382448920)||
