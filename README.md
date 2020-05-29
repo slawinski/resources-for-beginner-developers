@@ -17,7 +17,7 @@ Without further addo. Here's the ultimate list of links a beginner developer cou
 |[Deep work](https://doist.com/blog/deep-work/)|"How to master the #1 job skill that will never be obsolete"|
 |[Am I a real software engineer yet](https://www.freecodecamp.org/news/am-i-a-real-software-engineer-yet-a0f38a2248c0/)||
 |[Yes, You Should Learn Vanilla JavaScript Before Fancy JS Frameworks](https://snipcart.com/blog/learn-vanilla-javascript-before-using-js-frameworks)||
-|[Don't Make These Mistakes Whilst Learning How to Code ](https://dev.to/seabassed/don-t-make-these-mistakes-whilst-learning-how-to-code-3c78)||
+|[https://dev.to/top/infinity](https://dev.to/top/infinity)|Just read some of the blog posts listed and you're golden|
 
 ## Books
 |link|description|
