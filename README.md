@@ -8,7 +8,8 @@ Without further addo. Here's the ultimate list of links a beginner developer cou
 |[BaseCS](https://medium.com/basecs)|"Exploring the basics of computer science, every Monday, for a year."|
 |[Compiled](https://compiled.blog/blog)||
 |[We learn code](https://welearncode.com/) |"Ali’s friendly guides to your biggest coding questions."|
-|[Randall Kanna](https://randallkanna.com/blog/)|   |
+|[https://randallkanna.com/blog/](https://randallkanna.com/blog/)|   |
+|[https://dev.to/top/infinity](https://dev.to/top/infinity)|Just read some of the blog posts listed here and you're golden|
 
 ## Blogposts
 |link|description|
@@ -17,13 +18,12 @@ Without further addo. Here's the ultimate list of links a beginner developer cou
 |[Deep work](https://doist.com/blog/deep-work/)|"How to master the #1 job skill that will never be obsolete"|
 |[Am I a real software engineer yet](https://www.freecodecamp.org/news/am-i-a-real-software-engineer-yet-a0f38a2248c0/)||
 |[Yes, You Should Learn Vanilla JavaScript Before Fancy JS Frameworks](https://snipcart.com/blog/learn-vanilla-javascript-before-using-js-frameworks)||
-|[https://dev.to/top/infinity](https://dev.to/top/infinity)|Just read some of the blog posts listed and you're golden|
 
 ## Books
 |link|description|
 |---|---|
 |[Eloquent Javascript](http://eloquentjavascript.net/)|Porbably the first book a beginner should read|
-|[You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed)|The second book a beginner should read because you won't udnerstand much of it without at least the basics|
+|[You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed)|Definetely the second book a beginner should read because it gets technical very quickly|
 |[The Ultimate Guide To Getting Started As A Software Engineer](https://randallkanna.com/wp-content/uploads/2020/02/The-Ultimate-Guide-To-Getting-Started-As-A-Software-Engineer.pdf)|"This guide will help you get started coding with low risk to your financial future and time."|
 
 ## Online courses
@@ -84,6 +84,7 @@ Without further addo. Here's the ultimate list of links a beginner developer cou
 |[SourceMaking](https://sourcemaking.com/)||
 |[Refactoring Guru](https://refactoring.guru/)||
 |[VS Code can do that?!](https://www.vscodecandothat.com/)|All the best things about Visual Studio Code that nobody ever bothered to tell you|
+|[Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)|"Almost complete answers to "Front-end Job Interview Questions" which you can use to interview potential candidates, test yourself or completely ignore"|
 
 ## Javascript
 |link|description|
@@ -124,6 +125,7 @@ Without further addo. Here's the ultimate list of links a beginner developer cou
 |---|---|
 |[Learn Vanilla JavaScript](https://github.com/snipcart/learn-vanilla-js)|Open source list of paid & free resources to learn vanilla JavaScript|
 |[Design Resources For Developers](https://github.com/bradtraversy/design-resources-for-developers)|Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more|
+|[Here are 450 Ivy League courses you can take online right now for free](https://www.freecodecamp.org/news/ivy-league-free-online-courses-a0d7ae675869/)|"Here are 450 Ivy League courses you can take online right now for free"|
 
 ## Youtube channels
 |link|description|
