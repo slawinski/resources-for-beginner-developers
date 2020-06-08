@@ -1,4 +1,4 @@
-# Resources for beginners
+# Resources for beginners (work in progress)
 
 Without further addo. Here's the ultimate list of links a beginner developer could need. Enjoy!
 
