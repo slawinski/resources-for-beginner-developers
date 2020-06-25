@@ -1,4 +1,4 @@
-# Resources for beginners
+# Resources for beginners (work in progress)
 
 Here's the ultimate list of **FREE** knowledge a beginner developer could need.
 
