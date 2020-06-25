@@ -1,6 +1,16 @@
 # Resources for beginners
 
-Without further addo. Here's the ultimate list of links a beginner developer could need. Enjoy!
+Here's the ultimate list of **FREE** knowledge a beginner developer could need.
+
+*Important disclaimer:* If you don't know anything about programming then the chapter *Getting down to business* will hook you up! Enjoy!
+
+
+## Getting down to business
+If you don't know anything about programming and/or web developemnt I recommend you to take a look at any of the three resources listed below. They we're designed with beginners in mind and will set you up for the upcoming journey of becoming a developer. I really recommend to check out the rest of this list too - it's full of great stuff!
+
+🔥[Javascript30](https://javascript30.com/)
+🔥[Free Code Camp](https://www.freecodecamp.org/learn)
+🔥[Colt's Code Camp](https://www.youtube.com/playlist?list=PLblA84xge2_xNtaFnZhefjFbnDrpySKD3)🔥
 
 ## Blogs
 | link|description|
@@ -9,7 +19,7 @@ Without further addo. Here's the ultimate list of links a beginner developer cou
 |[Compiled](https://compiled.blog/blog)||
 |[We learn code](https://welearncode.com/) |"Ali’s friendly guides to your biggest coding questions."|
 |[https://randallkanna.com/blog/](https://randallkanna.com/blog/)|   |
-|[https://dev.to/top/infinity](https://dev.to/top/infinity)|Just read some of the blog posts listed here and you're golden|
+|[https://dev.to/top/infinity](https://dev.to/top/infinity)|Just read some of the most popular blog posts listed here and you're golden|
 
 ## Blogposts
 |link|description|
